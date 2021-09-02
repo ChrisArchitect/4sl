@@ -12,6 +12,10 @@ layout: default
   </p>
   
   <h1>{{ page.title }}</h1>
+  {%-if page.description-%}
+  <h4 style="margin-top:1.8rem;">{{ page.description }}</h4>
+  {%-endif-%}
+  <hr>
 
   {{ content }}
 </article>
