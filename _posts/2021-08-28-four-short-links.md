@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four short links: 28 Aug 2021
+title: "Four short links: 28 Aug 2021"
 description: Speed Of Thought, Polish Ghost Election, Couples Meet Online, Serotonin
 ---
 
