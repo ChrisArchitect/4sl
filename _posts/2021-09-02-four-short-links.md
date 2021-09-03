@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Four short links: 2 Sep 2021"
-description: Grawlixes, Getting Married at IBM, Australia's Tectonic Plates, and Salesforce's Burn
+description: Grawlixes, Getting Married at IBM, Australian Tectonic Plates, and Salesforce's Burn
+excerpt: Grawlixes, Getting Married at IBM, Australian Tectonic Plates, and Salesforce's Burn
 ---
 1. [Grawlixes](https://boingboing.net/2020/01/17/tools-to-replace-swear-words-w.html) are the now-traditional characters used to suggest anger, confusion, obscenity, resentment and other likely emotions behind the language. Eg “what the #@*% are you talking about?” (Cory Doctorow)
 2. [At one point, IBM fired women if they got married.](https://www.theatlantic.com/technology/archive/2013/02/the-internal-memo-that-allowed-ibms-female-employees-to-get-married/272832/) At the end of WWII, they wanted to hire men who had fought in the war and wanted jobs.
