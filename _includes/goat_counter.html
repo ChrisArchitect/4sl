@@ -1,6 +1,9 @@
-<script data-goatcounter="https://{{ site.goat_counter }}.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.goat_counter }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<noscript>
-  <img src="https://{{ site.goat_counter }}.goatcounter.com/count?p=/test-img">
-</noscript>
+  gtag('config', '{{ site.goat_counter }}');
+</script>
