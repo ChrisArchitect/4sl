@@ -3,6 +3,8 @@ layout: post
 title: "Four short links: 30 Aug 2021"
 description: CIA Marshall Plan funds, Monty Hall, BBSes, and Root of Proletariat
 excerpt: CIA Marshall Plan funds, Monty Hall, BBSes, and Root of Proletariat
+feed:
+  content: CIA Marshall Plan funds, Monty Hall, BBSes, and Root of Proletariat
 ---
 1. [CIA received 5% of the $15B Marshall Plan funds.](https://www.history.com/topics/world-war-ii/marshall-plan-1) “The CIA used these funds to establish ‘front’ businesses in several European countries that were designed to further U.S. interests in the region.” 
 2. [Monty Hall's Problem](https://stats.stackexchange.com/questions/373/the-monty-hall-problem-where-does-our-intuition-fail-us/23674#23674) - Even after watching thousands of Monty Hall problems play out, Monty Hall himself (the host of the TV game show “Let’s Make a Deal”) didn’t know the optimal strategy. (As revealed in a letter to Stanford CS professor) 
