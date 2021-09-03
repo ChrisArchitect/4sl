@@ -21,9 +21,6 @@ defaults:
     values:
       image: /4sl-xdisplay-logo-400px-circle.png
 
-feed:
-  path: feedroll.xml
-
 permalink: /:year-:month-:day-:slug.html
 
 favicon: "4sl-xdisplay-logo-400px-circle.png" # name+extension of favicon (which must be put on the root folder)
