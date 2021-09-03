@@ -14,8 +14,7 @@
   <ul>
     {%- for post in posts limit: include.limit -%}
         <li>
-          <span><a href="{{ post.url | relative_url }}">{{- post.date | date: '%Y-%m-%d' -}}</a></span> 
-          {%-if post.description-%}{{ post.description }}{%-endif-%}
+          <span><a href="{{ post.url | relative_url }}">{{- post.date | date: '%Y-%m-%d' -}}</a></span> {%-if post.description-%}: {{ post.description }}{%-endif-%}
         </li>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
