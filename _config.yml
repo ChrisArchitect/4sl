@@ -24,7 +24,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      image: https://cdn.statically.io/screenshot/4shortlinks.e-work.xyz/:year-:month-:day-:slug.html
+      image: "https://cdn.statically.io/screenshot/4shortlinks.e-work.xyz/:year-:month-:day-:slug.html"
 
 
 permalink: /:year-:month-:day-:slug.html
