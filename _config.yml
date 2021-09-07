@@ -37,6 +37,9 @@ theme_config:
 sass:
   style: :compressed
 
+feed:
+  path: feedroll.xml
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
