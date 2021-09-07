@@ -1,7 +1,7 @@
---
+---
 layout: none
 permalink: /feedroll.xml/
---
+---
 <?xml version="1.0" encoding="utf-8"?>
 {% if page.xsl %}
   <?xml-stylesheet type="text/xml" href="{{ '/feed.xslt.xml' | absolute_url }}"?>
