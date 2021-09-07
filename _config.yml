@@ -20,6 +20,12 @@ defaults:
       path: ""
     values:
       image: /4sl-xdisplay-logo-400px-circle.png
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      image: https://cdn.statically.io/screenshot/4shortlinks.e-work.xyz/:year-:month-:day-:slug.html
+
 
 permalink: /:year-:month-:day-:slug.html
 

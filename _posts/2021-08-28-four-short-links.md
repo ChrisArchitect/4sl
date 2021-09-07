@@ -1,6 +1,5 @@
 ---
 layout: post
-image: https://cdn.statically.io/screenshot/4shortlinks.e-work.xyz{{page.url}}
 title: "Four short links: 28 Aug 2021"
 description: Speed Of Thought, Polish Ghost Election, Couples Meet Online, Serotonin
 excerpt: Speed Of Thought, Polish Ghost Election, Couples Meet Online, Serotonin
