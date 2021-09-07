@@ -3,6 +3,7 @@ layout: post
 title: "Four short links: 28 Aug 2021"
 description: Speed Of Thought, Polish Ghost Election, Couples Meet Online, Serotonin
 excerpt: Speed Of Thought, Polish Ghost Election, Couples Meet Online, Serotonin
+image: "https://cdn.statically.io/screenshot/4shortlinks.e-work.xyz/:year-:month-:day-:slug.html"
 ---
 
 *For a while there, when I was reading a LOT of the Internet every day, I wrote down the random cool stuff I learned.*
