@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{{ page.image | replace: '!PAGE_URL!', page.url }}
 <header>
     <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="max-height: 10vh;margin:0;">
 </header>
